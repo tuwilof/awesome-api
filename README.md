@@ -167,6 +167,7 @@
 * [node-ratelimiter](https://github.com/tj/node-ratelimiter) – Rate limiter for Node.js backed by Redis.
 * [node-uuid](https://github.com/broofa/node-uuid) – Simple and fast generation of UUIDS.
 * [Supertest](https://www.npmjs.com/package/supertest) – Super-agent driven library for testing HTTP servers.
+* [fitting](https://github.com/tuwilof/fitting) - Library add improve test log for, validate its according to API Blueprint and Open API, show the documentation coverage with log.
 
 ## Frameworks
 
